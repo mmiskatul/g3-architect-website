@@ -9,6 +9,11 @@
     color: #727272;
 
 }
+.section-title {
+    color: #131313;
+    font-size: 2.8rem;
+    font-weight: 700;
+}
 .btn-primary {
     border-radius: 8px;
     background: #FF900E;
@@ -29,11 +34,7 @@ nav  {
     justify-content: space-between;
     align-items: center;
 }
-.nav-title {
-    color: #131313;
-    font-size: 2.8rem;
-    font-weight: 700;
-}
+
 nav > ul {
     display: flex;
   
@@ -103,6 +104,11 @@ main {
 .teams-title .text-Features {
     color: #FF900E;
     font-weight: 700;
+
+}
+/* feature section */
+/* Facts Section */
+.facts-title {
 
 }
 
