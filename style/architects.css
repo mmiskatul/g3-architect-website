@@ -146,6 +146,21 @@ main {
 .sponsors-img-container img {
     width: 165px;
 }
+/* footer section */
+.footer {
+    border-radius: 8px;
+    background: #FFF4E7;
+   margin: 0 auto;
+    width: 1440px;
+    height: 100px;
+}
+.footer p{
+    display: flex;
+    justify-content: center;
+   text-align: center;
+   padding: 40px 410px ;
+   
+}
 
 
 
